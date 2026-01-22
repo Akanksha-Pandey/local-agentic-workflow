@@ -1,4 +1,4 @@
-# blah-workflow
+# local-agentic-workflow
 
 Setting up local environment
 ```
